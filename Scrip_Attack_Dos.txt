@@ -1,0 +1,8 @@
+Demo Attack Dos Đồ Án Cuối Kì.
+
+- Tài liệu tham khảo:
+	+ https://www.geeksforgeeks.org/pentmenu-simple-bash-script-for-recon-and-dos-attacks/
+- Công cụ sử dụng:
+	+ Mã nguồn mở Pantmenu : https://github.com/GinjaChris/pentmenu.git
+	+ Máy ảo 1 Win 10 có IP : 192.168.246.132
+	+ Máy ảo 2 Kali Linux có IP : 192.168.246.134
